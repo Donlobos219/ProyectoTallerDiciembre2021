@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2613c32f42ee548b73424eac1c6e3f, type: 3}
+  m_Name: MecaAtaque
+  m_EditorClassIdentifier: 
+  itemType: Meca1
+  CanSpawnMeca1: 1
+  meca1: {fileID: 919132149155446097, guid: f10d5f64d0bfeeb42992f024480f866a, type: 3}
+  name: MecaAtaque
+  icon: {fileID: 21300000, guid: 666e3d27944981c468a819e9d93ddb9b, type: 3}
+  prefab: {fileID: 919132149155446097, guid: f10d5f64d0bfeeb42992f024480f866a, type: 3}

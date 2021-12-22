@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56ed2e3225859f247a3c2d66c8106912, type: 3}
+  m_Name: MecaAtaqueReceta
+  m_EditorClassIdentifier: 
+  itemType: 
+  name: MecaAtaqueReceta
+  icon: {fileID: 21300000, guid: 666e3d27944981c468a819e9d93ddb9b, type: 3}
+  result: {fileID: 11400000, guid: 4d48e2e88ad051045899b8fa871f0d77, type: 2}
+  ingredients:
+  - item: {fileID: 11400000, guid: 36650324c5cb33a4b8da2d7119a2cbde, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 560808b482536a0458350e9fe480669a, type: 2}
+    amount: 1
